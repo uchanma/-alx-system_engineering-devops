@@ -1,4 +1,13 @@
-#!/bin/ba
-Best School="*\\'\"Best School\"\'\\*\$\?\*\*\*\*\*:)"
-echo "Best School" > "$Best School"
-
+#!/bin/bash
+#
+#
+#
+#filename="*\\'\"Best School\"\'\\*\$\?\*\*\*\*\*:)"
+#
+#
+#
+#echo "Best School" > "$filename"
+#
+#
+#
+#
